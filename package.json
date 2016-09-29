@@ -1,6 +1,6 @@
 {
   "name": "lorem-gibson",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Lorem ipsum generator based in the style of William Gibson's works.",
   "keywords": [
     "lorem",
@@ -14,7 +14,9 @@
   "engines": {
     "atom": "*"
   },
-  "dependencies": {},
+  "dependencies": {
+    "lorem-ipsum": "~1.0.1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/entozoon/atom-lorem-gibson.git"
@@ -32,11 +34,5 @@
     "atom-text-editor": [
       "lorem-ipsum:sentence"
     ]
-  },
-  "engines": {
-    "atom": "*"
-  },
-  "dependencies": {
-    "lorem-ipsum": "~1.0.1"
   }
 }
