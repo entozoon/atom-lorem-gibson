@@ -1,7 +1,7 @@
 {
   "name": "lorem-gibson",
   "main": "./lib/lorem-gibson",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Lorem ipsum generator based on the style of William Gibson's works.",
   "keywords": [
     "lorem",
