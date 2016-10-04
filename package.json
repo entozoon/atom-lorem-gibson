@@ -1,7 +1,7 @@
 {
   "name": "lorem-gibson",
   "main": "./lib/lorem-gibson",
-  "version": "0.3.0",
+  "version": "0.1.1",
   "description": "Lorem ipsum generator based on the style of William Gibson's works.",
   "keywords": [
     "lorem",
@@ -18,10 +18,7 @@
       "lorem-gibson:sentence"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/entozoon/atom-lorem-gibson.git"
-  },
+  "repository": "https://github.com/entozoon/atom-lorem-gibson",
   "author": {
     "name": "Michael Cook",
     "url": "http://m.ichael.co.uk"
