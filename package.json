@@ -1,7 +1,7 @@
 {
   "name": "lorem-gibson",
   "main": "lib/index.coffee",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "Lorem ipsum generator based in the style of William Gibson's works.",
   "keywords": [
     "lorem",
@@ -15,8 +15,7 @@
   "engines": {
     "atom": "*"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "repository": "https://github.com/entozoon/atom-lorem-gibson",
   "author": {
     "name": "Michael Cook",
