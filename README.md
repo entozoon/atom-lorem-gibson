@@ -6,6 +6,10 @@ All credit goes to the author and the inspired [loremgibson.com](http://loremgib
 
 ## Installation
 
+	apm install lorem-gibson
+
+Or, more point and clickily:
+
 * In Atom, open *Settings* (*Preferences* on Mac)
 * Go to *Install* section
 * Search for `lorem-gibson` package. Once it found, click `Install` button to install package.
